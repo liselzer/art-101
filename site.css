@@ -1,0 +1,15 @@
+
+body{
+    background: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: darkorange;
+}
+.highlight_01{
+    background: yellow;
+}
+
+#mykitten{
+    width:200px
+}

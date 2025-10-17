@@ -1,0 +1,32 @@
+body{
+    background-color:bisque;
+    font-family:cursive;
+    color:rgb(141, 70, 70);
+}
+
+button{
+    background-color: rosybrown;
+    color:seashell;
+    border-radius: 10px;
+    font-family:cursive;
+    border: 10px dotted rgb(141,70,70);
+    width: 100px;
+    height: 50px;
+}
+
+button:hover{
+    background-color: skyblue;
+    color: purple;
+    border: 5px dotted orange;
+}
+
+img{
+    height:100px;
+    width:150px;
+    display:flex;
+    border: 4px dashed purple;
+}
+
+#cat{
+    border: 4px dashed orange;
+}

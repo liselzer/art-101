@@ -1,0 +1,38 @@
+body{
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+    color:brown;
+    display: flex;
+    justify-content: center;
+}
+
+h1:hover{
+    color:lightblue;
+}
+
+button{
+    background-color: brown;
+    color:lightblue;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 10px;
+
+}
+button:hover{
+    background-color: lightblue;
+    color:brown;
+
+}
+
+.container{
+    width: 100%;
+    background-color: lightpink;
+}
+
+#myphoto1{
+    width:200px;
+    height: 200px; 
+}
+#myphoto2{
+    width:200px;
+    height: 200px; 
+}
